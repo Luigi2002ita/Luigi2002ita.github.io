@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/services/accounting/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
     <loc>https://www.example.com/work/fall-plaza/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/services/tax-filing/</loc>
+    <loc>https://www.example.com/services/accounting/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://www.example.com/work/modern-hospital/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
+    <loc>https://www.example.com/services/tax-filing/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
     <loc>https://www.example.com/work/cargo-terminal/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/work/cargo-terminal2/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://www.example.com/about/</loc>
