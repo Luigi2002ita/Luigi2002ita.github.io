@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Hugo Hero Theme"
 theme = "hero"
 
+contentDir: "docs"
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -49,5 +51,4 @@ theme = "hero"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
-
-  contentDir: "docs"
+ 
